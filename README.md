@@ -34,7 +34,7 @@ I’m a passionate **Computer Science and Engineering** graduated in 2024 from *
 - **DevOps**: Automating and streamlining development workflows.
 
 ---
-
+<!--
 ## 💻 Technical Skills
 
 ### Programming Languages
@@ -67,6 +67,12 @@ I’m a passionate **Computer Science and Engineering** graduated in 2024 from *
 ![OOPS](https://img.shields.io/badge/OOPS-FF4500?style=for-the-badge&logo=oops&logoColor=white)
 ![DBMS](https://img.shields.io/badge/DBMS-000080?style=for-the-badge&logo=dbms&logoColor=white)
 ![Cryptography](https://img.shields.io/badge/Cryptography-000000?style=for-the-badge&logo=cryptography&logoColor=white)
+-->
+## 🔧 Technologies & Tools
+- **Languages:** Python, HTML5, CSS3, JavaScript, Java, etc.
+- **Frameworks:** React.js, Django, Node.js, Flask, Bootstrap, TailWind CSS etc.
+- **Tools:** Git, Github, Chatgpt, Deepseek, VS Code, etc.
+- **Databases:** MySQL, SQLite5, PostgreSQL, etc.
 
 ---
 
