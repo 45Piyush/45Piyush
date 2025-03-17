@@ -71,8 +71,8 @@ I’m a passionate **Computer Science and Engineering** graduated in 2024 from *
 ## 🔧 Technologies & Tools
 - **Languages:** Python, HTML5, CSS3, JavaScript, Java, etc.
 - **Frameworks:** React.js, Django, Node.js, Flask, Bootstrap, TailWind CSS etc.
-- **Tools:** Git, Github, Chatgpt, Deepseek, VS Code, etc.
-- **Databases:** MySQL, SQLite5, PostgreSQL, etc.
+- **Tools:** Git, Github, Chatgpt, VS Code, Figma, Render, Netlify etc.
+- **Databases:** MySQL, SQLite5, OracleSQL, etc.
 
 ---
 
