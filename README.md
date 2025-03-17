@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ---
 
 ## 🚀 About Me
-I’m a passionate **Computer Science and Engineering** graduate from **Government College of Engineering, Nagpur**, aspiring to become a **Software Development Engineer (SDE)**. With a strong academic foundation and a relentless drive to learn, I’m fascinated by the ever-evolving world of technology and innovation. My goal is to push boundaries, explore cutting-edge concepts, and excel in the tech industry.
+I’m a passionate **Computer Science and Engineering** graduated in 2024 from **Government College of Engineering, Nagpur**, aspiring to become a **Software Development Engineer (SDE)**. With a strong academic foundation and a relentless drive to learn, I’m fascinated by the ever-evolving world of technology and innovation. My goal is to push boundaries, explore cutting-edge concepts, and excel in the tech industry.
 
 ---
 
@@ -72,9 +72,9 @@ I’m a passionate **Computer Science and Engineering** graduate from **Governme
 
 ## 🌱 Beyond Work
 When I’m not coding, you can find me:
-- 🏏 Playing and watching cricket.
+- 🏏 Playing as well as watching Cricket.
 - 📰 Staying updated on sports news.
-- 🎮 Gaming and diving into anime.
+- 🎮 Gaming, playing Chess and diving into Anime.
 - � Prioritizing well-being through exercise and music.
 
 ---
