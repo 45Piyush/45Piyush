@@ -69,10 +69,10 @@ I’m a passionate **Computer Science and Engineering** graduated in 2024 from *
 ![Cryptography](https://img.shields.io/badge/Cryptography-000000?style=for-the-badge&logo=cryptography&logoColor=white)
 -->
 ## 🔧 Technologies & Tools
-- **Languages:** Python, HTML5, CSS3, JavaScript, Java, etc.
-- **Frameworks:** React.js, Django, Node.js, Flask, Bootstrap, TailWind CSS etc.
-- **Tools:** Git, Github, Chatgpt, VS Code, Figma, Render, Netlify etc.
-- **Databases:** MySQL, SQLite5, OracleSQL, etc.
+- **Languages:** Python,  HTML5,  CSS3,  JavaScript,  Java,  etc.
+- **Frameworks:** React.js,  Django,  Bootstrap,  TailWind CSS,  etc.
+- **Tools:** Git,  Chatgpt,  VS Code,  Figma,  Render,  Netlify,  etc.
+- **Databases:** MySQL,  SQLite5,  OracleSQL, etc.
 
 ---
 
