@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # Hey there, I'm Piyush Singh! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=PASSIONATE+CSE+GRADUATE;ASPIRING+SOFTWARE+DEVELOPER;FULL+STACK+DEVELOPER+%7C+AI/ML+%7C+DEVOPS+ENTHUSIAST;Let's+build+something+awesome!" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=PASSIONATE+CSE+GRADUATE;ASPIRING+SOFTWARE+DEVELOPER;FULLSTACK+DEVELOPER+%7C+AI/ML+%7C+DEVOPS+ENTHUSIAST;Let's+build+something+awesome!" alt="Typing Animation" />
 </div>
 
 ---
