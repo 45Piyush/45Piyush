@@ -87,7 +87,7 @@ I’m always open to collaborating on exciting projects or discussing tech. Feel
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/piyush45singh)
 
 ---
-
+<!--
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=45piyush&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br />
@@ -95,5 +95,6 @@ I’m always open to collaborating on exciting projects or discussing tech. Feel
 </div>
 
 ---
+-->
 
 ⭐️ Thanks for visiting my profile! Let’s explore the endless possibilities of technology together. 😊
